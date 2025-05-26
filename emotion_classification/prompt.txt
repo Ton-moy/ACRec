@@ -1,0 +1,66 @@
+You are given a sentence in which a reader describes the emotion they will experience upon reading a book. You are also given a list of 26 emotions categories and typical words used to express each of them.
+
+Your task is to identify the emotion categories that correspond to the reader's emotion that is expressed in the input sentence. If none match, write "Other". If by mistake there is no reader emotion expressed in the sentence, output "None". It is important that you consider only the emotion experienced by the reader, in particular you should ignore emotions experienced by characters in the book.
+
+Emotion Categories and Typical Words:
+
+Admiration: admire, adore, awe, dazed, dazzle, enraptured, enthrall, fascinate, marvel, rapt, reverent, spellbound, wonder, worship 
+Amusement: amuse, fun, humor, laugh, play, rollick, smile
+Anger: anger, cross, enrage, furious, fury, incensed, infuriate, irate, ire, mad, rage, resent, temper, wrath, wrought  
+Compassion: commiserate, compassion, empathy, pity  
+Contempt: contempt, denigrate, deprecate, derision, despise, disdain, scorn  
+Contentment: comfortable, content, satisfied  
+Disappointment: comedown, disappoint, discontent, disenchant, disgruntled, disillusion, frustrate, jilt, letdown, resign, sour, thwart  
+Disgust: abhor, aversion, detest, disgust, dislike, disrelish, distaste, loathe, nauseate, queasy, repugnant, repulse, revolt, sicken  
+Envy: envious, envy, covetous, jealous 
+Fear: afraid, aghast, alarm, dread, fear, fright, horror, panic, scare, terror  
+Feeling love: love, affection, fondness, friendship, tenderness
+Gratitude: gratitude, thankfulness
+Guilt: blame, contrition, guilt, remorse, repent  
+Hatred: acrimony, hate, rancor  
+Hope: buoyant, confident, faith, hope, optimism  
+Interest: absorb, alert, animated, ardor, attention, curious, eager, enrapt, engross, enthusiastic, fervent, interest, zeal  
+Joy: ecstatic, elated, euphoric, exalted, exhilarated, exult, flushed, glee, joy, jubilant, overjoyed, ravished, rejoice, cheerful, blissful, delectable, delightful, enchanting, enjoyment, felicity, happiness, merry
+Longing: crave, daydream, desire, fantasy, hanker, hark, homesick, long, nostalgic, pine, regret, wish, wistful, yearn  
+Pleasure: enjoy, delight, glow, pleasure, thrill, zest  
+Pride: pride, proud  
+Relaxation: ease, calm, carefree, casual, detached, dispassion, equanimity, even-tempered, laid-back, peace, placid, poise, relax, serene, tranquil, unruffled  
+Relief: relief  
+Sadness: chagrin, dejected, doleful, gloom, glum, grief, hopeless, melancholic, mourn, sad, sorrow, tears, weep  
+Shame: abashed, ashamed, crushed, disgrace, embarrassed, humiliated, shame  
+Surprise: amazed, astonished, dumbfounded, startled, stunned, surprised, aback, thunderstruck, wonder  
+Tension: active, agitated, discomfort, distress, strain, stress, tense
+
+Please note that the listed words are only representative examples; synonymous words or expressions that convey similar emotional meanings may also indicate the same emotion category.
+
+Return only the emotion category name. If the reader's emotion in the input sentence belongs to multiple emotion categories, return all those category names separated by commas. Do not include any explanation or extra text.
+
+Example 1:
+Input sentence: "The passion and intimate moments between the main characters will leave me in the clouds and feeling jealous."
+Output categories: Envy
+
+Example 2:
+Input sentence: "While the characters fight, they will do many cool actions that will make me also want to be a hunter."
+Output categories: Hope
+
+Example 3:
+Input sentence: "I will be addicted to the story and the characters."
+Output categories: Interest
+
+Example 4:
+Input sentence: "The book will make me empathize with the main character in a way I did not expect."
+Output categories: Compassion, Surprise
+
+Example 5:
+Input sentence: "The book will take me on such an emotional journey."
+Output categories: Other
+
+Example 6:
+Input sentence: "The main character will have a darker and quite disturbing side."
+Output categories: None
+
+
+Now, identify the emotion category (or categories if more than one) for the reader's emotion expressed in the sentence below:
+
+Input sentence: "{ac_sentence}"
+Output categories:

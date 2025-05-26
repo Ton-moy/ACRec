@@ -1,0 +1,143 @@
+Extracting phrases from reviews may involve removing or paraphrasing parts of the original review, or sometimes making no changes at all. The extracted phrases must preserve the core message of the corresponding original review and sound as if it were written before reading the book, by someone seeking to learn and to experience what is described in the review, without having any prior knowledge of the actual book. The extracted phrases should remain as close as possible to the original review in terms of wording and must always follow the main rules provided below:
+
+
+Rule 1: You will only extract phrases that belong to one of the three types below.
+
+(i) Affective Phrase (A): An affective phrase expresses the reader’s affective response to the book. While the primary focus is the affective experience (emotion or mood), it may include minimal or general references to book's content or form (such as genre, characters, settings, writing style, or plot) without describing them in detail. These phrases should be specifically about what the reader is feeling and not about emotional descriptions in the book. See the examples annotated as A below.
+
+1. A: The book will make me laugh and cry with the main character on every page.
+2. A: I will delight in all of the characters’ antics.
+3. A: I want to love the book so much that I won’t even be able to come up with words to explain how it makes me feel.
+
+The example below should not be classified as an affective phrase, as it does not express an emotion that the reader experiences:
+1. The book will have a terrific fusion of science fiction, science and history.
+In this example, the word "terrific" does not indicate an emotion of the reader, it indicates a positive attitude, or sentiment, towards the book or aspects of the book. This sentence will actually be a cognitive phrase as explained below.
+
+(ii) Cognitive Phrase (C): A cognitive phrase describes factual, structural, or stylistic aspects of the book, such as it's genre, narrative structure, character development, plot development, settings, writing style, world-building, or point of view. It focuses on objective features of the book’s content or form without referencing the reader’s affective responses. See the examples annotated as C below.
+
+1. C: The book will be a fantastic epic, with so many complex, complete characters, and masterful world-building.
+2. C: The book will alternate between past and present so we really get a sense of the shared history between the main male and female characters.
+3. C: The story will be a lovely, sexy romance with a good dose of old-fashioned angst.
+
+(iii) Affective-Cognitive Phrase (AC): An Affective-Cognitive phrase expresses the reader’s affective (emotion or mood based) responses tied to specific aspects of the book's content or form, such as narrative structure, characters development, plot development, detailed settings, detailed writing style, detailed world-building, or point of view. The affective response emerges from, or is inseparable from, these detailed or distinctive features of the book. See the examples annotated as AC below.
+
+1. AC: I will get to slowly discover what I am reading about and how everything is connected throughout the book, which I think would be cool.
+2. AC: I will feel satisfaction from following the main character’s love of hiking.
+3. AC: It will be very interesting to see how everything will turn out and in what setting the book will be going to be in.
+4. AC: The world will be richly detailed and full of many interesting secondary characters.
+
+	
+Rule 2: When extracting A, C, AC phrases, you must replace the book title, the author’s name, any character names, any culture or language names, and place or location names with corresponding noun phrases that make them nonidentifiable. Similarly, replace specific chapter numbers, chapter names, and page numbers with broader terms. See the two examples below.
+
+Original: A Shark at the Park by Mike Kalmbach and his son is one of those children’s books that a parent really enjoys reading.
+Extracted: 
+C: The book is one of those children’s books that a parent really enjoys reading.
+Original: The actual plot began in Chapter 1 with two girls stealing fruit.
+Extracted:
+C: The actual plot will begin with two girls stealing fruit.
+
+
+Rule 3: Each extracted phrase must be self-contained and able to stand as a complete, meaningful sentence on its own. It must clearly indicate what is being referred to (e.g., the book, the characters, the story, etc.) without relying on additional context from surrounding sentences. See the example below.
+
+Original: This is my first book by Kat and Stone Bastion and I was very taken by their writing style. This story is heavy on the dialogue and light on explicit scenes but the character development and the sense of place was fantastic! The vivid description of Hawaii and other locations was beautiful. 
+Extracted:
+A: I will be very taken by the authors' writing style.
+C: The story will be heavy on the dialogue and light on explicit scenes, but the character development and the sense of place will be fantastic.
+C: The book will have beautiful vivid descriptions of different locations.
+
+
+Rule 4: The original review was written after reading the book, but the extracted phrases must be reworded into first-person point of view and future tense, as if written by someone looking for a new book. Remove any phrases that imply knowledge of specific story details, character histories, or events that would only be known after reading. See the example below.
+
+Original: I did not want this book to end!! What a page-turner. Moody, evocative and thrilling, Lisa Jewell's writing surprised and enthralled me from beginning to end. 
+This book begins with Alice, a frazzled single mother living in a tiny seaside town in England, finding a man, lost and alone and with no memory of how he came to be sitting on the beach in the driving rain. 
+Extracted:
+A: I will not want the book to end.
+A: The book will be a page-turner.
+A: The book will be moody, evocative and thrilling.
+A: The author's writing will surprise and enthrall me from beginning to end. 
+
+Here, "This book begins with Alice, a frazzled single mother living in a tiny seaside town in England, finding a man, lost and alone and with no memory of how he came to be sitting on the beach in the driving rain." is removed because it contains detailed story elements that can only be known after reading.
+
+
+Rule 5: When an affective phrase expresses surprise caused by an unexpected or atypical feature of the book, remove the specific atypical feature and preserve only the emotional experience, without revealing the surprising element, to maintain the reader’s experience of discovery. See the example below.
+
+Original: The added song lyrics and playlist were a wonderful touch.
+Extracted:
+A: The book will have an aspect that will be a wonderful touch.
+
+
+Rule 6: Remove or reword sentences that express negative attitudes toward the book (e.g., complaints about predictability, cliffhangers, poor pacing). However, preserve sentences expressing negative emotions or moods (e.g., sadness, horror, discomfort) when they are intended as positive aspects of the book’s emotional experience. See the examples below:
+
+Original: The rather abrupt ending was a little unsatisfying BUT the clever story kept me guessing.
+Extracted: 
+C: The clever story will keep me guessing.
+The reader feels unsatisfied by the abrupt ending, a negative affective state, so this phrase would not be extracted.
+Original: Some parts might be obvious as to what will happen, but it will not detract from the story.
+Extracted:
+The reader feels that parts of the story are obvious and there is nothing affective or cognitive about this sentence. Nothing would be extracted here.
+Original: This was a horrible story—in the traditional sense—I felt a sense of horror reading it.
+Extracted:
+A: The book will be a horrible story — in the traditional sense — and I will feel a sense of horror while reading it.
+
+This sentence is referring to a scary story, meaning that feeling horror is not a bad thing. When reading a horror story, you would want to get scared. Similarly, when reading a sad story, you would want to feel sad.
+
+
+Rule 7: Do not extract phrases that describe how the reviewer discovered the book and how they feel about it. Additionally, do not extract information that refers to other books, book series, or movie adaptations, even if the reference is indirect or structural (such as mentioning sequels, prequels, conclusions, or continuations). Also, do not extract any statements unrelated to the book being reviewed or any sentences that quote text taken verbatim from the book itself. Below are some examples of phrases that must not be extracted.
+
+(i) In the Public library when I found it I was so excited.
+(ii) I can’t wait to read and share my review of book 2, Betrayal.
+(iii) Reading this series made me feel like a child again. I was excited in this first book. I watched the movies before i read this book and was happy that i did. I had face to the characters. I knew who they were and it made the books so much better to have an actual visual. The books had so much more in them than the movies did but the movies were good too!
+(iv) "I’m cold. I’m hungry. I’m frightened." And so begins this extraordinary story of Elsa and Thibault, who meet purely by accident while she is in a coma.
+
+
+Rule 8: Do not extract affective expressions about authors or books that are generic (e.g., amazing read, great book, love the book, excellent job etc.). Do not extract star ratings or phrases recommending the book. See below some examples of phrases that must not be extracted.
+(i) Impressive job by Dionne.
+(ii) Great job by the author.
+(iii) I adore Jane Harvey-Berrick and her books are among my favorites.
+(iv) Exile was an amazing read! 
+(v) I really enjoyed the story. 
+(vi) I loved every word. 
+(vii) I give this book 5 out of 5 stars.
+(viii) I can't recommend this book highly enough! 
+(ix) The book will be an amazing read. 
+
+However, if a generic affective expression is combined with additional context that is more specific and meaningful, extract it. See the example below.
+Original: It was an amazing read with the author's multiple points of view.
+Extracted:
+AC: The book will be an amazing read with the author's multiple points of view.
+
+
+Rule 9: Extract phrases where the reviewer expresses admiration for the author’s writing style, storytelling, or any qualities directly related to the book being reviewed. See the examples below.
+
+Original: S.C. Stephens does an outstanding job of portraying the mix of emotions experienced in a love triangle and a long distance relationship.
+Extracted: 
+AC: The author will do an outstanding job of portraying the complex emotions in a love triangle and a long-distance relationship.
+Original: Nicola Rendell is definitely a writer to watch and her book kept me engaged and laughing until the very end.
+Extracted: 
+A: The author will definitely be a writer to watch and their book will keep me engaged and laughing until the very end.
+
+
+Rule 10: Do not extract phrases that are incomplete, missing key information, difficult to interpret, or lacking the necessary context needed to form a meaningful, self-contained expectation about the book. See the example below that must not be extracted.
+
+(i) I am very much looking forward to the main character’s one final human ‘ritual’ and who knows, maybe I’ll even catch the bouquet!
+
+
+Rule 11: If the book is referred to as an audiobook or an e-book, extract the A, C, or AC phrases normally, following all the standard rules. However, do not extract any phrases, whether affective or non-affective, that are specific to the audio aspect of the book, such as phrases that describe or evaluate the narrator's voice, performance, or narration quality. See the examples below.
+
+Original: I loved the 80s references. This was a wonderful book to listen to with Darren on our road trips. Wil Wheaton was the perfect narrator for this book.
+Extracted:
+C: The book will have 80s references.
+AC: The book will be a wonderful book to listen to on road trips.
+Original:   And a quick note on the audiobook narrator, Stephen Hogan: he does a spot-on job. His accents are varied and easily identifiable, but never hammy. He has a terrific deep, low tone that can be eerie in one line, and vulnerable with the next.
+Extracted:
+Do not extract anything.
+
+
+Rule 12: If a phrase expresses an affective state about a general aspect of the book, such as its genre, structure, characters, settings, writing style, or plot, without describing them in detail, it should be classified as Affective (A). However, if the expression is specifically tied to detailed or distinctive features, the phrase should be classified as Affective-Cognitive (AC). See the examples below.
+
+Original: The book is one of the most memorable.
+Extracted:
+A: The book will be one of the most memorable.
+Original: The book is one of the most memorable because of its intricate dual-timeline structure.
+Extracted:
+AC: The book will be one of the most memorable because of its intricate dual-timeline structure.

@@ -1,0 +1,96 @@
+Example 1: 
+Original: "If you can't trust yourself, who can you trust?"
+OMG!! Intelligent and thrilling page-turner that I read in almost one sitting! The rather abrupt ending was a little unsatisfying BUT the clever story kept me guessing.
+I think most people do something or fail to take action that may cause some guilt. Well this story begins with Cass taking a shortcut late at night and failing to stop and help a woman who is stopped on the side of the road. 
+The motorist ends up dead. Cass feels guilty, but just as significant are the little things she begins to forget...how to run the washing machine, making dinner plans with friends, and even rather significant purchases. Her mother suffered from early-onset Alzheimer's. What is happening to Cass? 
+Cass's mental well-being soon spirals out of control and she fears she will suffer the same fate as her mother. 
+I literally could not put this book down! I FELT Cass's hysteria and fear. The last part of the book was thrilling and surprising and gave me everything I love about thrillers. I highly recommend this one for all fans of this genre and even if you want to step outside your usual genre. Cass was a memorable heroine and I was cheering for her all throughout the book. This is my first book by B.A. Paris and she has now become one of my faves!! 
+ (ARC provided by the publisher in return for an honest review.)
+
+Extracted: 
+A: The book will be an intelligent and thrilling page-turner that I will read in one sitting.
+C: The clever story will keep me guessing.
+A: I literally will not be able to put this book down. 
+A: I will FEEL the main character’s hysteria and fear. 
+A: The last part of the book will be thrilling and surprising and will give me everything I love about thrillers.
+A: The heroine will be memorable.
+A: I will be cheering for the heroine all throughout the book.
+
+Explanation:
+- All the 
+- The sentence '"If you can’t trust yourself, who can you trust?"' was removed because it is taken verbatim from the book itself, according to Rule 7.
+- Since the sentence "The rather abrupt ending was a little unsatisfying but the clever story kept me guessing." contains a negative connotation, it was extracted as the Cognitive (C) phrase "The clever story will keep me guessing," removing the negative connotation in accordance with Rule 1 and 6.
+- "Well this story begins with Cass taking a shortcut late at night and failing to stop and help a woman who is stopped on the side of the road. The motorist ends up dead. Cass feels guilty, but just as significant are the little things she begins to forget...how to run the washing machine, making dinner plans with friends, and even rather significant purchases. Her mother suffered from early-onset Alzheimer's. What is happening to Cass? Cass's mental well-being soon spirals out of control and she fears she will suffer the same fate as her mother." was removed according to Rule 4, as it contains detail story elements that can only be known after reading. 
+- "Cass's hysteria and fear." was changed to "the main character’s hysteria and fear." according to Rule 2. 
+- "I highly recommend this one for all fans of this genre and even if you want to step outside your usual genre." was removed according to Rule 8.
+- "Cass was a memorable heroine" was changed to "The heroine will be memorable." according to Rule 4.
+- "The heroine will be memorable." was classified as Affective (A) according to Rule 12.
+- "This is my first book by B.A. Paris and she has now become one of my faves!! (ARC provided by the publisher in return for an honest review.)" was removed according to Rule 7 and 9.
+
+
+Example 2: CD Reiss is one of my favorite romance authors. Her writing is mature, sexy, nuanced and never fails to grab me. And I do love books about marriage. Separation Games was a perfect conclusion to the first book in this series. Marriage Games ended with an unusual twist and I absolutely loved how the author worked things out between Adam and Diana.
+I feel both of their pain, confusion and longing. 
+And Adam, OMG! He was one of the author's most memorable heroes. Wow. Both Diana and Adam are mature, smart and very driven.
+This book is off-the-charts sexy and is the perfect read for fans of mature contemporary romance with an erotic twist. 
+"Beg to come." 
+"Please." 
+"Beg harder." 
+Adam and Diana do not have a easy path but when they do finally resolve their issues, it is explosive. I have never read a book by CD Reiss that I didn't love, and this duet is no exception.
+The supporting characters are all very well-written and the New York City setting adds another exciting layer to the story. The Epilogue is fantastic! I was actually sorry to see this story end.
+Highly recommend this steamy, emotional and very mature erotic romance. 
+"Your problem isn't that you don't love. Your problem is you love so much it scares you." 
+(ARC provided in return for an honest review.)
+
+Extracted:
+A: The author's writing will be mature, sexy, nuanced, and will never fail to grab me.
+AC: I will love how the author works things out between the two main characters.
+A: I will feel both of the main character's pain, confusion and longing.
+C: One of the main characters will be one of the author's most memorable heroes.
+C: Both of the main character will be mature, smart and very driven.
+C: The book will be off-the-charts sexy and the perfect read for fans of mature contemporary romance with an erotic twist.
+AC: The two main characters will not have a easy path but when they will do finally resolve their issues, it will be explosive.
+C: The supporting characters will be all very well-written.
+A: The city setting will add an exciting layer to the story. 
+A: I will be actually sorry to see the story end.
+
+Explanation:
+- The sentences "CD Reiss is one of my favorite romance authors." and "And I do love books about marriage." were removed according to Rule 8.
+- "Separation Games was a perfect conclusion to the first book in this series." was removed according to Rule 7.
+- ""Beg to come." "Please."  "Beg harder."" and """Your problem isn't that you don't love. Your problem is you love so much it scares you."" were removed according to Rule 7, because they are taken verbatim from the book itself.
+- "I have never read a book by CD Reiss that I didn't love, and this duet is no exception." was removed according to Rule 8.
+- "(ARC provided in return for an honest review.)" was removed according to Rule 7.
+
+
+Example 3: 
+Original: Amazing. One of the best books I've read in a long while. Chapter 6 I swear has to be one of the best and most hilarious chapters ever written about what a girl needs during that horrible week each month. Loved every second of this book and can't wait to read the others!!!!!
+
+Extracted:
+A: The book will be one of the best I've read in a long while.
+AC: The book will have one of the best and most hilarious chapters ever written about what a girl needs during that horrible week each month.
+A: I will love every second of reading this book.
+
+Explanation:
+- "The book will have one of the best and most hilarious chapters ever written about what a girl needs during that horrible week each month." is classified as Affective-Cognitive (AC), as it contains both an affective expression and a cognitive aspect tied to a specific detailed the book.
+- "can't wait to read the others!!!!!" was removed according to Rule 7.
+
+
+Example 4:
+Original: Each author talks about how they wrote their first book, as the title implies. But there is much more to it - you read about their challenges, writer's block, rejections and everything that makes them and you want to quit. The point is that they didn't quit and they got published! This books makes you believe that even you can be a writer! Very motivating!!!
+
+Extracted:
+C: The book will be about different authors' stories of how they wrote their first book.
+C: I will read about different authors' challenges, writer's block, rejections and everything that makes them want to quit writing. 
+A: The book will make me believe that even I can be a writer.
+A: The book will be very motivating.
+
+Explanation:
+- "Each author talks about how they wrote their first book, as the title implies." was changed to "The book will be about different authors' stories of how they wrote their first book." to make the extracted phrase standalone, removing unnecessary references to the title and ensuring it clearly describes the book's content on its own. It is classified as Cognitive (C) because it describes the book’s content without expressing any affective response.
+
+
+Example 5:
+Original: One of my favorite Anne Rice books!!!
+
+Extracted:
+
+Explanation:
+- Nothing was extracted according to Rule 8.

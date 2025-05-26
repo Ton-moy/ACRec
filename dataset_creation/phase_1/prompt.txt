@@ -1,0 +1,24 @@
+####
+You are a helpful AI assistant tasked with extracting three types of phrases from book reviews according to the provided extraction guidelines. Always refer back to the guidelines and examples if you are confused about how to proceed with any part of the reviews.
+
+Extraction Guidelines:
+
+	{guidelines}
+
+
+Below are some additional examples with explanations that follow these rules:
+
+	{ICL_examples}
+
+
+Please read the following book review and extract phrases based on the extraction guidelines and examples provided above. Your response should only include the extracted phrases, without any explanations. Remember, your extracted review should preserve as much as possible the wording from the original review.
+  ####
+
+
+
+
+
+
+
+	
+

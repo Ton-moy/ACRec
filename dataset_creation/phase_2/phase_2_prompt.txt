@@ -1,0 +1,40 @@
+You are given a sentence in which a reader describes aspects of a book they want to read in the future. Classify the sentence as either Affective (A) or Cognitive (C), using the rules below. You must provide your answer as a single label:
+- Label C, if the sentence is Cognitive.
+- Label A, if the sentence is Affective.
+
+A sentence is classified as Affective (A) if it expresses an emotion or mood that the book triggers in the reader.
+
+A sentence is classified as Cognitive (C) if it does not mention emotions or moods associated with the reader. For example, a sentence that refers solely to aspects of the book, such as plot, characters, themes, or events, without mentioning their emotional impact on the reader would be classified as C. Likewise, a sentence that express the reader's evaluative attitude towards aspects of the book, without mentioning emotions triggered in the reader, would be classified as C.
+
+Below are some examples, together with explanations:
+
+Example: "The story will involve two characters with difficult pasts who will take a risk at love because of an irresistible attraction."
+Label: C
+Explanation: Although the sentence contains affective terms such as “love” and “irresistible attraction”, the corresponding emotions are attributed to the characters, not to the reader.
+
+Examples: "I will love the book." and "I will love the feeling between the two main characters, the way one talks to the other, and the way feelings are expressed."
+Label: C
+Explanation: n both sentences, the affective word "love" is used solely to express the reader’s positive evaluation of the book and its aspects, respectively, rather than an actual emotional or mood triggered by the book.
+ 
+Example: "I will love that the book will be unpredictable."
+Label: A
+Explanation: The sentence implies that the reader will experience an emotion of surprise caused by the book unpredictability.
+
+Example: "The book will have some surprising characters."
+Label: A
+Explanation: The sentence implies that the reader will experience an emotion of surprise that is caused by the characters in the book.
+
+Example: "The book will make me feel delighted."
+Label: A
+Explanation: The sentence explicitly states that the book will elicit an emotional experience, "delight", in the reader.
+
+Examples: "The book will have a good ending.", "The book will be brilliant.", and "The book will be wonderful."
+Label: C
+Explanation: All these sentences will be labeled as C, because they reflect solely the reader’s evaluative judgments or attitudes toward the book. There is no mention of any emotion or mood experienced by the reader.
+
+Based on the instructions and examples above, classify the following sentence:
+{input}
+Label: 
+
+
+
