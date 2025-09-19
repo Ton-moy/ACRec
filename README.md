@@ -7,6 +7,11 @@ The affective attitude of liking a recommended item reflects just one category i
 
 ![](wheel-acrec.png)
 
+Figure 1: Selection of AC statements, starting from top emotion categories organized around the Emotion Wheel. Left: The proposed emotion wheel adapted from the Geneva Emotion Wheel. Right: The user selects emotion categories, where for each category they have the option of selecting fine-grained AC statements.
+
+![](framework.png)
+
+Figure 2: Overall architecture of the proposed ACRec model.
 
 ## 🗂️ Repository Structure
 
