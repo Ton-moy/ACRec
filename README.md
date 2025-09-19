@@ -14,6 +14,8 @@ Figure 2: Overall architecture of the proposed ACRec model.
 
 ## Requirements
 
+## Download Datasets and Pre-trained Model
+
 ## Repository Structure
 
 ### `dataset_creation/`
