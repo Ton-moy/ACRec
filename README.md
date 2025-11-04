@@ -14,7 +14,14 @@ Figure 2: Overall architecture of the proposed ACRec model.
 
 ## Requirements
 
-## Download Datasets and Pre-trained Model
+## Download Datasets
+- User files
+- Books with **original** descriptions
+- Books with **extended** descriptions
+
+**Google Drive folder:**  
+https://drive.google.com/drive/folders/1kkevKdDswRm6bgdyqN11GL0V7MkF26MI?usp=sharing
+
 
 ## Repository Structure
 
